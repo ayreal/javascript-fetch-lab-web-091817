@@ -1,4 +1,4 @@
-const token = "fe9c008f614991413bc1bc684d4f200982e7f4f0";
+const token = "";
 const postData = {
   body: "Great stuff"
 };
